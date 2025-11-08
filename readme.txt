@@ -32,4 +32,4 @@ O site é organizado em seções de fácil acesso:
 Para participar de nossos eventos, acompanhar as notícias e tirar dúvidas:
 
 * **Comunidade no LinkedIn:** [Acesse a Página da UNISIC](https://www.linkedin.com/company/unisic/posts/?feedView=all)
-* **Email:** `contato@unisic.com.br` (para contato direto)
+
